@@ -1,6 +1,7 @@
 ![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
-<h5 align="center">Hi I am Developer Abhi Welcome in my github</h5>
-<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="center">Hi I am Developer Abhi Welcome in my github</h3>
+<h2 align="center">A passionate frontend developer from India</h2>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif">
 
 
